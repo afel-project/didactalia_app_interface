@@ -1,0 +1,60 @@
+
+
+body {
+    max-width: 1000px;
+    margin-right: auto;
+    margin-left: auto;
+}
+
+#header{
+    background: #E4042B;
+}
+
+#footer{
+    background: #E4042B;
+}
+
+.dbutton{
+    background:  white;
+    border: 1px solid #E4042B;
+    font-size: 18px;
+}
+
+.dselected{
+    background:  #E4042B;
+}
+
+.tbutton{
+    background:  white;
+    border: 1px solid #E4042B;
+    font-size: 18px;
+}
+
+.tselected{
+    background:  #E4042B;
+}
+
+.gobutton{
+    margin-top: 30px;
+    background:  white;
+    border: 1px solid #E4042B;
+    font-size: 24px;
+}
+
+#plusbut{
+    background:  #E4042B;
+}
+
+#logo{
+   max-height: 40px;
+   max-width: 80%;
+   margin-left: 10px;
+}
+
+#timearea{
+    height: 0px;
+}
+
+#polarchart{
+    height: 60vw
+}

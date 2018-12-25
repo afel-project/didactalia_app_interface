@@ -1,0 +1,7 @@
+
+
+var config = {
+    show_rec: false,
+    show_time: false,
+    show_act: true    
+}
